@@ -1,0 +1,49 @@
+# Cursor AI Configuration for Serena MCP Project
+
+## Project Overview
+This is a Serena MCP (Model Context Protocol) project that integrates with AI assistants through the MCP standard.
+
+## Code Style & Standards
+- Use Python 3.8+ syntax and features
+- Follow PEP 8 style guidelines
+- Use type hints where appropriate
+- Write docstrings for all functions and classes
+- Use meaningful variable and function names
+
+## Project Structure
+- `src/` - Main source code
+- `tests/` - Test files
+- `docs/` - Documentation
+- `.serena/` - Serena-specific configuration
+
+## Development Guidelines
+- Always test your code before committing
+- Write unit tests for new functionality
+- Update documentation when adding new features
+- Use environment variables for configuration
+- Follow the MCP protocol standards
+
+## AI Assistant Instructions
+- Help with Serena MCP integration
+- Assist with Python development
+- Provide code reviews and suggestions
+- Help with testing and documentation
+- Suggest improvements for MCP server implementation
+
+## File Naming Conventions
+- Use snake_case for Python files and functions
+- Use PascalCase for classes
+- Use UPPER_CASE for constants
+- Use descriptive names that indicate purpose
+
+## Error Handling
+- Implement proper exception handling
+- Log errors appropriately
+- Provide meaningful error messages
+- Handle edge cases gracefully
+
+## Performance Considerations
+- Optimize for readability first, then performance
+- Use async/await where appropriate
+- Minimize external dependencies
+- Profile code when performance is critical
